@@ -22,9 +22,9 @@ DDE 深度桌面环境的控制中心提供了插件功能，以便第三方开�
 
 ......
 
-* github https://github.com/......
+* github https://github.com/BLumia
 
-* email ......@......
+* email wangzichong@deepin.org
 
 
 ### 难度
